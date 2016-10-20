@@ -1,0 +1,62 @@
+/* Here goes your CSS */
+body {
+  color: black;
+  background-image: url("images/47744_technology_programming_code.jpg");
+  font-family: 'Roboto Mono', monospace;
+  font-size: 15px;
+  line-height: 1.6em;
+/*  margin-left: auto;
+  margin-right: auto;*/
+}
+h1 {
+  font-family: 'Roboto Mono', monospace;
+  color: black;
+  font-size: 15px;
+}
+
+h2 {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 14px;
+  color: black;
+}
+
+/*p {
+  font-family: 'Homemade Apple', cursive;
+  font-size: 13px;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}*/
+
+.container {
+  text-align: center;
+  margin: 0 auto;
+  width: 1100px;   /* Set width
+  margin: 0 auto; /* Automatically set left/right margins */
+}
+
+ul {
+  letter-spacing: 20px;
+  color: black;
+}
+
+.card {
+  border-radius: 4px;
+  background: rgba(255,255,255,0.5);
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+.card li {
+  list-style:none;
+  display: inline;
+  color: black;
+}
+
+.img-circle {
+  border-radius: 50%;
+  box-shadow: 5px 5px 3px black;
+}
+.text-center{
+  text-align: center;
+}
